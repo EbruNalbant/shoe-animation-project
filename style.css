@@ -133,7 +133,7 @@ body{
     z-index: -1;
 }
 
-.col-2 .ring:before{
+.col-2 .ring::before{
     content: "";
     position: absolute;
     top: -3px;
@@ -161,7 +161,7 @@ body{
     animation: return 10s linear infinite;
 }
 
-.col-2 .ring .circle:before{
+.col-2 .ring .circle::before{
     content: "";
     position: absolute;
     top: -6px;
@@ -211,7 +211,7 @@ body{
     animation: return2 10s linear infinite;
 }
 
-.col-2 .ring-two .circle-two:before{
+.col-2 .ring-two .circle-two::before{
     content: "";
     position: absolute;
     top: -6px;
