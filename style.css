@@ -211,7 +211,7 @@ body{
     animation: return2 10s linear infinite;
 }
 
-.col-2 .ring-two .circle-two::before{
+.col-2 .ring-two .circle-two:before{
     content: "";
     position: absolute;
     top: -6px;
