@@ -1,1 +1,1 @@
-# shoe-project
+# shoe-animation-project
